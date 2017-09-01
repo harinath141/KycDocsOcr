@@ -1,0 +1,2 @@
+# KycDocsOcr
+Kyc docs recognition
